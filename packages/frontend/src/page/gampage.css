@@ -1,0 +1,17 @@
+/* This is the CSS style for some of the elements on Main GamePage
+*/
+
+.player {
+  position: relative;
+}
+
+.playerme {
+  position: absolute;
+}
+
+.timer {
+  position: absolute;
+  top: 0;
+  display: flex;
+  justify-content: center;
+}
