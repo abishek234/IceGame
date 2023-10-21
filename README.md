@@ -1,13 +1,5 @@
-<h1 align="center">
-  <br>
-  <img src="./resources/seal_dance.gif?raw=true&sanitize=true" alt="Seal" width="100">
-</h1>
-
 <h1 align="center">IceGame</h1>
 
-<p align="center">
-  <img alt="GitHub" src="https://img.shields.io/badge/license-MIT-blue">
-</p>
 
 ## Gameplay
 
